@@ -63,11 +63,11 @@
 
 ### 环境要求
 
-- Python 3.8 或更高版本
+- Python 3.8 
 - OpenCV 4.5+
-- 支持的操作系统：Windows 10/11, Ubuntu 20.04+, macOS 11+
-- 摄像头（推荐1080p或更高分辨率）
-- （可选）灵巧手硬件设备
+- 支持的操作系统：Windows 10/11
+- 摄像头（推荐720p或更高分辨率）
+- 灵巧手硬件设备
 
 ### 软件安装
 
@@ -113,14 +113,6 @@ python main.py --mode game
 
 使用MediaPipe或其他计算机视觉技术，实时追踪手部21个关键点，识别手势动作并控制灵巧手模仿。
 
-**支持的手势：**
-- ✊ 握拳
-- ✋ 张开手掌
-- ✌️ 剪刀手
-- 👆 单指指向
-- 🤙 打电话手势
-- ...（可自定义扩展）
-
 ### 2. 音乐古筝模式
 
 将手指的弯曲程度映射为音乐音符，创造独特的音乐演奏体验。
@@ -165,7 +157,7 @@ python main.py --mode game
 
 ### 硬件
 - **Arduino / ESP32** - 微控制器
-- **舵机 / 步进电机** - 执行器
+- **舵机** - 执行器
 - **传感器** - 位置反馈
 - **3D打印材料** - PLA / PETG
 
@@ -212,9 +204,9 @@ python main.py --mode game
 
 ## 📧 联系方式
 
-- **项目主页**: https://github.com/yourusername/dexterous-hand-control
-- **问题反馈**: [Issues](https://github.com/yourusername/dexterous-hand-control/issues)
-- **邮箱**: your.email@example.com
+- **项目主页**: [https://github.com/yourusername/dexterous-hand-control](https://github.com/HBC-Tech-coder/RobotHand)
+- **问题反馈**: [[Issues](https://github.com/yourusername/dexterous-hand-control/issues)](https://github.com/HBC-Tech-coder/RobotHand/issues)
+- **邮箱**: 
 - **讨论区**: [Discussions](https://github.com/yourusername/dexterous-hand-control/discussions)
 
 ---
@@ -223,12 +215,12 @@ python main.py --mode game
 
 如果这个项目对你有帮助，请给我们一个 Star ⭐️
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/dexterous-hand-control&type=Date)](https://star-history.com/#yourusername/dexterous-hand-control&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=HBC-Tech-coder/RobotHand&type=Date)](https://star-history.com/#HBC-Tech-coder/RobotHand&Date)
 
 ---
 
 <div align="center">
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ HBC Tech**
 
 </div>
