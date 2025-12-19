@@ -35,7 +35,7 @@
 #define indexFinger_straighten 120
 #define indexFinger_flex       380
 #define middle_straighten      450  
-#define middle_flex            180
+#define middle_flex            220
 #define ring_straighten        500
 #define ring_flex              250
 #define thumb_straighten       110
