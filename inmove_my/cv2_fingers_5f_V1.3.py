@@ -942,7 +942,7 @@ if __name__ == "__main__":
     sys.excepthook = exception_hook
     
     app = QApplication(sys.argv)
-    # 设置全局字体，确保中文显示正常 
+    # 设置全局字体，确保中文显示正常
     font = app.font()
     font.setFamily("SimHei")  # Windows/Linux默认中文字体
     app.setFont(font)
